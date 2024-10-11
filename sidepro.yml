@@ -1,0 +1,7 @@
+configuration: {}
+name: flaskblog
+namespace: fawziyah-beta
+origin:
+  path: /Users/fawziyahnabeelah/Documents/Test-Blog
+staging:
+  builder: heroku/builder:22
